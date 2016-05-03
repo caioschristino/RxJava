@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Exemplos Simples com RxJava</string>
+    <string name="action_settings">Settings</string>
+    <string name="simple_example">Exemplo Simples</string>
+    <string name="simple_example_filter">Exemplo usando Filtro</string>
+    <string name="simple_example_filter_map">Exemplo usando Filtro e Map</string>
+</resources>
